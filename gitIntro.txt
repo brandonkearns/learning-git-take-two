@@ -1,1 +1,3 @@
 Welcome to the introduction to Git & GitHub!
+
+Hopefully, you learn some things today.
